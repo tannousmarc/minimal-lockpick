@@ -20,6 +20,9 @@ body {
   border: 2px solid #fefefe;
   z-index: 1;
   transition: all 15s linear;
+  -webkit-transition-duration: 20s;
+  transition-duration: 20s;
+  transform: rotate(730deg);
 }
 #circle:hover{
    cursor:pointer;
