@@ -131,8 +131,10 @@ p > h4{
 .centered{
   position: absolute;
   margin: auto;
-top: 0; left: 0; bottom: 0; right: 0;
-text-align: center;
+  top: 0; left: 0; bottom: 0; right: 0;
+  text-align: center;
+  margin-top: 5em;
+  height: 5em;
 }
 .centered button{
   transition: all 0.3s ease;
