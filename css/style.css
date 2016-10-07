@@ -5,8 +5,8 @@ body {
 }
 
 #container {
-  margin: 10vh;
-  margin-top: 50vh;
+  position: relative;
+  margin-top: 25em;
   text-align: center;
   color: #fefefe;
 }
@@ -149,7 +149,7 @@ p > h4{
   color: #fefefe;
   font-weight: 300;
   width: 225px;
-  margin-top: 0.8em;
+  margin-top: 1.2em;
 }
 .centered button:hover{
   background-color: #FD6C6C;
@@ -167,5 +167,5 @@ h2{
   color: #fefefe;
   font-weight: 400
   padding: 0 20px;
-  line-height: 2em;
+  line-height: 1.5em;
 }
