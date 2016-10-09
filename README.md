@@ -6,9 +6,9 @@ Positions are randomly generated, spinning is alternative, speed is distance div
 ![Screenshot](https://cloud.githubusercontent.com/assets/6099321/19220570/287bd74a-8e28-11e6-8fe0-4e7e64abdf5e.png)
 
 #Demo
-You can see [a fully functional live demo](http://www.tannousmarc.com/projects/threeX/index) on my webpage.
+You can see [a fully functional live demo](http://www.tannousmarc.com/projects/lockpicking/index) on my webpage.
 
-If simply watching is not quite your cup of tea, [play with the code instantly in the browser](http://codepen.io/marctannous/pen/RNGjmz) or fork the project on github.
+If simply watching is not quite your cup of tea, [play with the code instantly in the browser](http://codepen.io/marctannous/details/qONmob/) or fork the project on github.
 
 #Known issues
 Initial version, uses jquery and CSS transforms (which are really flawed). Best course of action is changing how the actual game mechanic works.
