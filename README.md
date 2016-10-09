@@ -15,3 +15,4 @@ Initial version, uses jquery and CSS transforms (which are really flawed). Best 
 
 - CSS considers 3600deg != 360deg but -3600deg == 360deg for some reason. Hence, counter clockwise spinning sometimes caps unexpectedly.
 - Because of the same reason as above, sometime speed may be very very small. The way speed is calculated is distance/time with a fixed time animation, but random distance. For a distance of 0deg to -3600deg, CSS might equal it to distance of 0deg to -360deg.
+- Tapping on mobile works, but the spacing/sizing is off. 
