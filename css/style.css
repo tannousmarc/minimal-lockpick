@@ -5,8 +5,8 @@ body {
 }
 
 #container {
-  position: relative;
-  margin-top: 25em;
+  margin: 10vh;
+  margin-top: 50vh;
   text-align: center;
   color: #fefefe;
 }
