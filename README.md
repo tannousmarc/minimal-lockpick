@@ -7,8 +7,6 @@ Positions are randomly generated, spinning is alternative, speed is distance div
   <img src="http://im.ezgif.com/tmp/ezgif.com-a6a87c737e.gif" alt="Picking a lock"/>
 </p>
 
-![Screenshot](https://cloud.githubusercontent.com/assets/6099321/19220570/287bd74a-8e28-11e6-8fe0-4e7e64abdf5e.png)
-
 #Demo
 You can see [a fully functional live demo](http://www.tannousmarc.com/projects/lockpicking/index) on my webpage.
 
