@@ -3,6 +3,10 @@ Minimal JS game which imitates the mechanism of a safe to 'crack' digits. Spins 
 
 Positions are randomly generated, spinning is alternative, speed is distance divided by time where the distance is randomly generated.
 
+<p align="center">
+  <img src="http://im.ezgif.com/tmp/ezgif.com-a6a87c737e.gif" alt="Picking a lock"/>
+</p>
+
 ![Screenshot](https://cloud.githubusercontent.com/assets/6099321/19220570/287bd74a-8e28-11e6-8fe0-4e7e64abdf5e.png)
 
 #Demo
